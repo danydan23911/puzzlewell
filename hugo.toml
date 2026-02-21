@@ -1,0 +1,36 @@
+baseURL = "https://puzzlewell.com/"
+languageCode = "en-us"
+title = "HOME"
+theme = "ananke"
+copyright = "PuzzleWell Editorial Team"
+
+[params]
+description = "Puzzles, games and creativity"
+custom_css = ["css/custom.css"]
+
+[menu]
+
+  [[menu.main]]
+  name = "Books"
+  url = "/books/"
+  weight = 10
+
+  [[menu.main]]
+  name = "Solutions"
+  url = "/solutions/"
+  weight = 20
+
+  [[menu.main]]
+  name = "Reviews"
+  url = "/reviews/"
+  weight = 30
+
+[[menu.main]]
+  name = "Amazon Author"
+  url = "https://www.amazon.com/author/puzzlewell_"
+  weight = 40
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

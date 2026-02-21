@@ -1,0 +1,8 @@
+
+# Avoid committing PDFs inside Hugo content
+content/solutions/**/*.pdf
+
+
+# Hugo build output
+public/
+

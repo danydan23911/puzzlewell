@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<section class="pw-hero">
+  <img src="/images/hero.jpg" alt="PuzzleWell Editorial Team">
+</section>
+
+<section class="pw-content">
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.description }}</p>
+</section>
+
+{{ end }}

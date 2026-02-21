@@ -1,0 +1,110 @@
+/* =====================================================
+   PuzzleWell – Custom CSS
+   Approche Ananke native (header avec image de fond)
+   ===================================================== */
+
+/* Reset léger */
+body {
+  margin: 0;
+}
+
+/* =========================
+   HOME – HEADER / HERO
+   ========================= */
+
+.is-home header .bg-black {
+  background-image: url("/images/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* ✅ Ton fameux 670px */
+  min-height: 570px;
+
+  /* ✅ Recentrage du logo dans l'image */
+  background-position: center 40%;
+
+  /* léger padding pour le menu */
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+
+  background-color: transparent !important;
+}
+
+/* =========================
+   TEXTE HEADER (on cache)
+   ========================= */
+
+/* Cache le gros titre Ananke superflu */
+.is-home header .tc-l {
+  display: none !important;
+}
+
+/* =========================
+   MENU
+   ========================= */
+
+/* Menu lisible sur image */
+.is-home header nav a {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+/* Effet hover discret */
+.is-home header nav a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   CONTENU SOUS LE HERO
+   ========================= */
+
+.is-home main {
+  margin-top: 2rem;
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+
+footer {
+  margin-top: 3rem;
+}
+/* =========================
+   MOBILE OPTIMIZATION
+   ========================= */
+
+@media (max-width: 600px) {
+
+  /* Texte plus lisible sur mobile */
+  body {
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+  /* Header encore plus mince sur mobile */
+  .site-header {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+  /* Espacement des images */
+  img {
+    margin: 0.5rem 0 1rem 0;
+  }
+
+  /* Couvertures centrées et pas trop larges */
+  .nested-copy-line-height img {
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* =========================
+   LIENS
+   ========================= */
+
+a {
+  text-underline-offset: 0.15em;
+}
+
