@@ -7,7 +7,8 @@
     <p>Thank you for your interest and support!</p>
   {{ end }}
 
-  <form action="https://formspree.io/f/xvzbbbel" method="POST">
+  <form name="stay-connected" method="POST" data-netlify="true" action="/thank-you/">
+  <input type="hidden" name="form-name" value="stay-connected">
     <input
       type="email"
       name="email"
@@ -23,6 +24,6 @@
       ></textarea>
     {{ end }}
 
-    <button type="submit">Send Message</button>
-  </form>
-</section>
+    <button type="submit">
+{{ if eq $mode "mini" }}Join the list{{ else }}Send message{{ end }}
+</button>
