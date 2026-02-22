@@ -1,0 +1,30 @@
+﻿{{/* layouts/partials/stay-connected.html */}}
+
+{{ $mode := .mode | default "full" }}
+
+<section class="contact-section">
+  <h2>Stay Connected 💛</h2>
+
+  {{ if eq $mode "full" }}
+    <p>Thank you for your interest and support!</p>
+  {{ end }}
+
+  <form action="https://formspree.io/f/xvzbbbel" method="POST">
+    <input
+      type="email"
+      name="email"
+      placeholder="Your email"
+      required
+    >
+
+    {{ if eq $mode "full" }}
+      <textarea
+        name="message"
+        placeholder="Leave us a comment!"
+        rows="4"
+      ></textarea>
+    {{ end }}
+
+    <button type="submit">Send Message</button>
+  </form>
+</section>
