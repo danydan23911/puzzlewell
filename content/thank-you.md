@@ -4,10 +4,10 @@ title: "Thank You"
 
 ## 💛 Thank you for staying connected!
 
-Your message has been received successfully.
+Your free puzzle book is ready.
 
-We truly appreciate your interest in **PuzzleWell** and your support of independent puzzle publishing.
+![PuzzleWell Free Book](/images/puzzlewell-free-book-cover.png)
 
-👉 You can now safely close this page or return to the site.
+[⬇ Download your free book](/freebies/puzzlewell-free-book.pdf)
 
-[⬅ Back to Home](/)
+If you enjoyed this book, discover more PuzzleWell titles on Amazon.
