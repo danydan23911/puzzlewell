@@ -30,3 +30,5 @@ This website provides **official solutions** for my puzzle books published by **
 
 > Please respect the spirit of the game  
 > These solutions are intended for readers who own the book.
+
+{{< stay-connected mode="full" >}}
