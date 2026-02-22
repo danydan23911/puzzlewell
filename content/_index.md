@@ -12,4 +12,4 @@ Screen-free learning, designed to inspire confident minds at every age.
 
 ***Lifelong Learning. Thoughtfully Designed.***
 
-{{ partial "stay-connected.html" (dict "mode" "mini") }}
+{{< stay-connected mode="mini" >}}
