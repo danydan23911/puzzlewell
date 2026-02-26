@@ -7,8 +7,10 @@
     <p>Thank you for your interest and support!</p>
   {{ end }}
 
-  <form name="stay-connected" method="POST" data-netlify="true" action="/thank-you/">
-  <input type="hidden" name="form-name" value="stay-connected">
+ <form name="stay-connected" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+  <input type="hidden" name="form-name" value="stay-connected"> <p hidden>
+  <label>Don’t fill this out: <input name="bot-field"></label>
+</p>
     <input
       type="email"
       name="email"
