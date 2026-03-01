@@ -8,9 +8,13 @@ Screen-free learning, designed to inspire confident minds at every age.
 
 ***Lifelong Learning. Thoughtfully Designed.***
 
-👇 Click below to download the full solutions PDF:
+👇 Click below to download the solutions (PDF – split into 4 parts):
 
-📄 [Download the solutions (PDF)](egypt-solutions.pdf)
+📄 **Book 1 – Solutions**
+- [Download Solutions – Part 1](/solutions/book1/SolutionsBook1_Part1.pdf)
+- [Download Solutions – Part 2](/solutions/book1/SolutionsBook1_Part2.pdf)
+- [Download Solutions – Part 3](/solutions/book1/SolutionsBook1_Part3.pdf)
+- [Download Solutions – Part 4](/solutions/book1/SolutionsBook1_Part4.pdf)
 
 Enjoy your puzzle time ☕📘
 
