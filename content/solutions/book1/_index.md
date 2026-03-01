@@ -21,6 +21,5 @@ Screen-free learning, designed to inspire confident minds at every age.
 Enjoy your puzzle time ☕📘
 
 <div style="text-align:center;">
-  <img src="/images/books/book1cover.jpg" alt="PuzzleWell Book 1" width="300">
+  <img src="/images/books/book1cover.png" alt="PuzzleWell Book 1" width="300">
 </div>
-
