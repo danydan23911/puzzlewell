@@ -16,6 +16,8 @@ Screen-free learning, designed to inspire confident minds at every age.
 - [Download Solutions – Part 3](/solutions/book1/SolutionsBook1_Part3.pdf)
 - [Download Solutions – Part 4](/solutions/book1/SolutionsBook1_Part4.pdf)
 
+<img src="/images/books/book1cover.png" alt="PuzzleWell Book 1" width="300">
+
 Enjoy your puzzle time ☕📘
 
 <div style="text-align:center;">
