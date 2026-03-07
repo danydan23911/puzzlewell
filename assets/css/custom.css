@@ -103,3 +103,13 @@
   background-color: #b68c2f;
   transform: translateY(-1px);
 }
+.page-header {
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  min-height: 350px;
+}
+
+.page-header::before {
+  background: none !important;
+}
