@@ -1,6 +1,7 @@
 ---
 title: "Reviews"
 draft: false
+featured_image: "/images/reviews-hero.jpg"
 ---
 
 # Thank You for Leaving a Review!
