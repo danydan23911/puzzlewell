@@ -1,6 +1,7 @@
 ---
 title: "Books"
 draft: false
+featured_image: "/images/books-hero.jpg"
 ---
 
 Welcome to the official PuzzleWell solution page!

@@ -5,30 +5,16 @@ draft: false
 
 # Thank You for Leaving a Review!
 
+### Welcome to PuzzleWell Editorial Team — your puzzle companion!🙂  
+
 *Your feedback means the world to PuzzleWell.*
+If you enjoyed my puzzle books, your kind words in a comment truly help an independent author.😊
 
-If you enjoyed my puzzle books, your kind words truly help an independent author.
+### Want to help us? ⭐ 
+A quick review on Amazon truly helps a small independent publisher.
 
----
-title: "PuzzleWell"
-featured_image: "/images/home-cover.jpg"
----
-
-### Welcome to PuzzleWell Editorial Press — your puzzle companion!🙂  
-This website provides **official solutions** for my puzzle books published by **PuzzleWell Editorial Press**.📖
-
-### How it works😊
-
-1.Open your puzzle book 🧩  
-2.Scan the **QR code** ✨  
-3.Come back here. Select your book and the corresponding page 📖  
-4.Enjoy the puzzle experience ☕
-
-➡️ **Browse solutions by book :**  
-
-[View all books](/books/)
-
-> Please respect the spirit of the game  
-> These solutions are intended for readers who own the book.
+Thank you for your support 💛
+### Leave your email (and a quick note if you want). 
+## We’ll send you freebies + new releases. 😄
 
 {{< stay-connected mode="full" >}}

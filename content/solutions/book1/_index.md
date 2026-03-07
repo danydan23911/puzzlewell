@@ -1,3 +1,8 @@
+---
+title: "Book 1 – Solutions"
+draft: false
+---
+
 Welcome to the official PuzzleWell solution page!
 
 Puzzlewell creates high-quality puzzle and activity books for kids, adults, and seniors.
@@ -17,7 +22,7 @@ Screen-free learning, designed to inspire confident minds at every age.
 - [Download Solutions – Part 4](/solutions/book1/SolutionsBook1_Part4.pdf)
 
 <div style="text-align:center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/images/books/book1cover.png" alt="PuzzleWell Book 1 cover" width="300">
+  <img src="/images/bookcovers/book1cover.jpg" alt="PuzzleWell Book 1 cover" width="300">
 </div>
 
 Enjoy your puzzle time ☕📘
