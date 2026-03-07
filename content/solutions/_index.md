@@ -1,5 +1,6 @@
 ---
 title: "Puzzle Solutions"
+featured_image: "/images/solutions-hero.jpg"
 ---
 
 🧩Thank you for purchasing a PuzzleWell book!
