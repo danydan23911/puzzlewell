@@ -6,7 +6,8 @@ featured_image_class: "cover bg-center"
 show_hero_title: false
 ---
 
-# Thank You for purchasing our books! PuzzleWell Editorial Team is your puzzle companion, and we are glad to be part of your life!🙂  
+# Thank You for purchasing our books! 
+PuzzleWell Editorial Team is your puzzle companion, and we are glad to be part of your life!🙂  
 
 *Your feedback means the world to PuzzleWell.*
 So if you enjoyed our puzzle books, your kind words in a comment truly help an independent author.😊
