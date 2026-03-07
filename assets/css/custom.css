@@ -113,3 +113,26 @@
 .page-header::before {
   background: none !important;
 }
+.bg-near-black {
+  background: transparent !important;
+}
+
+.page-header {
+  background-size: cover !important;
+  background-position: center !important;
+  min-height: 350px;
+}
+.page-header {
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  min-height: 350px;
+}
+
+.page-header::before {
+  background: none !important;
+}
+
+.bg-near-black {
+  background: transparent !important;
+}
