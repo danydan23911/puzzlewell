@@ -2,14 +2,14 @@
 title: "Reviews"
 draft: false
 featured_image: "/images/reviews-hero.png"
+featured_image_class: "cover bg-center"
+show_hero_title: false
 ---
 
-# Thank You for Leaving a Review!
-
-### Welcome to PuzzleWell Editorial Team — your puzzle companion!🙂  
+# Thank You for purchasing our books! PuzzleWell Editorial Team is your puzzle companion, and we are glad to be part of your life!🙂  
 
 *Your feedback means the world to PuzzleWell.*
-If you enjoyed my puzzle books, your kind words in a comment truly help an independent author.😊
+So if you enjoyed our puzzle books, your kind words in a comment truly help an independent author.😊
 
 ### Want to help us? ⭐ 
 A quick review on Amazon truly helps a small independent publisher.
