@@ -2,9 +2,10 @@
 title: "Books"
 draft: false
 featured_image: "/images/books-hero.jpg"
+featured_image_class: "cover bg-center"
 ---
 
-Welcome to the official PuzzleWell solution page!
+## **Welcome to the official PuzzleWell book page!**
 
 PuzzleWell creates high-quality puzzle and activity books for kids, adults, and seniors.
 
@@ -22,4 +23,4 @@ Screen-free learning, designed to inspire confident minds at every age.
 
 A 250+ pages word search book with 500 puzzles and more than 10000 words!
 
-👉 [View solutions](/solutions/book1/)
+👉 **[View solutions]( /solutions/book1/ )**

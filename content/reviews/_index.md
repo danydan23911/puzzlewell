@@ -6,17 +6,45 @@ featured_image_class: "cover bg-center"
 show_hero_title: false
 ---
 
-# Thank You for purchasing our books! 
-PuzzleWell Editorial Team is your puzzle companion, and we are glad to be part of your life!🙂  
+# Thank you for supporting PuzzleWell! 😊
 
-*Your feedback means the world to PuzzleWell.*
-So if you enjoyed our puzzle books, your kind words in a comment truly help an independent author.😊
+PuzzleWell Editorial Team is your puzzle companion, and we are truly grateful to be part of your puzzle time.
 
-### Want to help us? ⭐ 
-A quick review on Amazon truly helps a small independent publisher.
+Your feedback helps independent creators like us continue publishing new puzzle books for puzzle lovers of all ages.
 
-Thank you for your support 💛
-### Leave your email (and a quick note if you want). 
-## We’ll send you freebies + new releases. 😄
+---
 
-{{< stay-connected mode="full" >}}
+## ⭐ Leave a quick Amazon review (30 seconds)
+
+If you enjoyed your PuzzleWell book, leaving a short review on Amazon would mean a lot.
+
+It takes less than **30 seconds**, and it helps other puzzle lovers discover our books.
+
+Even a simple comment like:
+
+*"I really enjoyed these puzzles!"*
+
+helps tremendously. 💛
+
+---
+
+### Crossword Puzzle Book 🧩
+
+![Crossword Puzzle Book](/images/bookcovers/book1cover.jpg)
+
+👉 **Leave a quick review on Amazon (30 seconds)**  
+https://amazon.ca/dp/XXXXXXXX
+
+---
+
+## 🎁 Stay connected with PuzzleWell
+
+Join the PuzzleWell community and receive a **free puzzle book**.
+
+You'll also be the first to hear about:
+
+👉new puzzle releases  
+👉exclusive freebies  
+👉special reader offers
+
+{{< mailerlite-freebie >}}

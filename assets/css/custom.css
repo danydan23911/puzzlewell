@@ -132,10 +132,25 @@
 .page-header::before {
   background: none !important;
 }
-
-.bg-near-black {
-  background: transparent !important;
-}
 .bg-black-60 {
   background: transparent !important;
+}
+.site-header a {
+  text-shadow: 0 0 8px rgba(0,0,0,0.8);
+}
+.site-header a,
+.site-header .link,
+.site-header .f3,
+.site-header .f5,
+.site-header .ttu,
+.site-header .white-90,
+.site-header .hover-white,
+.site-header nav a,
+.site-header .nested-links a {
+  color: #ffffff !important;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.95) !important;
+}
+
+.site-header {
+  background: rgba(0, 0, 0, 0.18) !important;
 }
