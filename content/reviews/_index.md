@@ -2,7 +2,7 @@
 title: "Reviews"
 draft: false
 featured_image: "/images/reviews-hero.png"
-featured_image_class: "cover bg-center"
+featured_image_class: "cover bg-top"
 show_hero_title: false
 ---
 

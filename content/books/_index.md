@@ -2,7 +2,7 @@
 title: "Books"
 draft: false
 featured_image: "/images/books-hero.jpg"
-featured_image_class: "cover bg-center"
+featured_image_class: "cover bg-top"
 ---
 
 ## **Welcome to the official PuzzleWell book page!**
